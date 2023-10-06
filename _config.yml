@@ -2,8 +2,8 @@
 name: "Memoirs"
 title: "Memoirs"
 description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/nafsadh.png'
+favicon: 'assets/images/nafsadh.png'
 baseurl: /jekyll-theme-memoirs
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
@@ -15,8 +15,8 @@ email: wowthemesnet@gmail.com
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
+    name: Sadh
+    display_name: Sadh
     avatar: 'assets/images/avatar-sal.png'
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net/donate/
