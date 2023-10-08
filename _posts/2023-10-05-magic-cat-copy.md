@@ -1,17 +1,12 @@
 ---
 layout: post
-title: "Foo Cat in a Box"
+title: "Magic Cat At Copy Machine"
 author: sadh
 categories: [AI Generated, Midjourney]
 image: https://cdn.midjourney.com/d0417786-4f9c-43b2-bd4c-1dcb49692c3b/0_1.png
 ---
 
-Prompt:
-
-```
 Icecream in a sweet sweet cloud land being eaten by a kitten - watercolor, acrylic
-
-```
 
 Within the Hôtel de Crillon, which was built in 1758, Les Ambassadeurs operated as a restaurant since the mid-19th century. It reached its peak of fame as a restaurant and nightclub (a café-concert) in the last three decades of the 19th century.
 
@@ -26,9 +21,27 @@ Les Ambassadeurs had two Michelin stars. In the last decade of its operation, ch
 In 2017 Hache opened a smaller restaurant, L'Écrin, within the renovated hotel; the former space of Les Ambassadeurs became a bar.
 
 [![image-title-here](https://cdn.midjourney.com/99df4134-8964-4e9f-8eaa-19743dca63ad/0_3.png){:class="img-responsive"}](https://www.midjourney.com/app/jobs/4946900f-d807-4853-af29-7eb2537a61aa/){:target="\_blank"}
-![image-title-here](https://cdn.midjourney.com/8faee164-72aa-4cff-8c13-d115ecccd4dd/0_2.png){: .w-50 p-3 .left}
-![image-title-here](https://cdn.midjourney.com/99df4134-8964-4e9f-8eaa-19743dca63ad/0_3.png){: .w-50 .left}
-![image-title-here](https://cdn.midjourney.com/99df4134-8964-4e9f-8eaa-19743dca63ad/0_3.png){: width="300" .left}
+_dk_
+
+![image-title-here](https://cdn.midjourney.com/8faee164-72aa-4cff-8c13-d115ecccd4dd/0_2.png){: .col-md-4 .normal}
+![image-title-here](https://cdn.midjourney.com/99df4134-8964-4e9f-8eaa-19743dca63ad/0_3.png){: .col-md-4 .normal}
+![image-title-here](https://cdn.midjourney.com/99df4134-8964-4e9f-8eaa-19743dca63ad/0_3.png){: .col-md-4 .normal}
+{: class="row"}
+
+<div class="row">
+<div class="col-md-4 normal m-0">
+<img src="https://cdn.midjourney.com/b8429df2-143c-49cd-85a7-f8976a373cda/0_1.png" class="m-0"/>
+<a href="https://cdn.midjourney.com/b8429df2-143c-49cd-85a7-f8976a373cda/0_1.png">on MJ</a>
+</div>
+<div class="col-md-4 normal m-0">
+<img src="https://cdn.midjourney.com/b8429df2-143c-49cd-85a7-f8976a373cda/0_1.png" class="m-0"/>
+<a href="https://cdn.midjourney.com/b8429df2-143c-49cd-85a7-f8976a373cda/0_1.png">on MJ</a>
+</div>
+<div class="col-md-4 normal m-0">
+<img src="https://cdn.midjourney.com/b8429df2-143c-49cd-85a7-f8976a373cda/0_1.png" class="m-0"/>
+<a href="https://cdn.midjourney.com/b8429df2-143c-49cd-85a7-f8976a373cda/0_1.png">on MJ</a>
+</div>
+</div>
 
 [![image-title-here](https://cdn.midjourney.com/99df4134-8964-4e9f-8eaa-19743dca63ad/0_3.png){:class="img-responsive"}](https://www.midjourney.com/app/jobs/4946900f-d807-4853-af29-7eb2537a61aa/){: col-md-6}
 [![image-title-here](https://cdn.midjourney.com/99df4134-8964-4e9f-8eaa-19743dca63ad/0_3.png){:class="img-responsive"}](https://www.midjourney.com/app/jobs/4946900f-d807-4853-af29-7eb2537a61aa/){: col-md-6}
